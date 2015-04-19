@@ -1,4 +1,4 @@
-stream
+streamer
 =====
 
 An OTP application

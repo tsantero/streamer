@@ -1,0 +1,13 @@
+{application, streamer,
+ [{description, "An OTP application"}
+ ,{vsn, "0.1.0"}
+ ,{registered, []}
+ ,{mod, {'streamer_app', []}}
+ ,{applications,
+   [kernel
+   ,stdlib
+   ,lager
+   ]}
+ ,{env,[]}
+ ,{modules, []}
+ ]}.
